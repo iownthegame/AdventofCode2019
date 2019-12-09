@@ -3,9 +3,15 @@
 https://adventofcode.com/2019
 
 * --- Day 1: The Tyranny of the Rocket Equation --- 
-  - Simple math calculation
+  - Math calculation
+
+* --- Day 2: 1202 Program Alarm ---
+  - Array manipulation
+
+* --- Day 3: Crossed Wires ---
+  - Line intersection
 
 * --- Day 8: Space Image Format ---
-  - Simple array manipulation
+  - Array manipulation
 
 
