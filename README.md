@@ -11,6 +11,9 @@ https://adventofcode.com/2019
 * --- Day 3: Crossed Wires ---
   - Line intersection
 
+* --- Day 4: Secure Container ---
+  - Hash table, Array difference
+
 * --- Day 8: Space Image Format ---
   - Array manipulation
 
