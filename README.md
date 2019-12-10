@@ -20,6 +20,9 @@ https://adventofcode.com/2019
 * --- Day 6: Universal Orbit Map ---
  - Hash table
 
+* --- Day 7: Amplification Circuit ---
+  - Array manipulation, data memorization
+
 * --- Day 8: Space Image Format ---
   - Array manipulation
 
