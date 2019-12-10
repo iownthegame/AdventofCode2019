@@ -2,7 +2,7 @@
 
 https://adventofcode.com/2019
 
-* --- Day 1: The Tyranny of the Rocket Equation --- 
+* --- Day 1: The Tyranny of the Rocket Equation ---
   - Math calculation
 
 * --- Day 2: 1202 Program Alarm ---
@@ -13,6 +13,9 @@ https://adventofcode.com/2019
 
 * --- Day 4: Secure Container ---
   - Hash table, Array difference
+
+* --- Day 5: Sunny with a Chance of Asteroids ---
+  - Array manipulation
 
 * --- Day 8: Space Image Format ---
   - Array manipulation
