@@ -17,6 +17,9 @@ https://adventofcode.com/2019
 * --- Day 5: Sunny with a Chance of Asteroids ---
   - Array manipulation
 
+* --- Day 6: Universal Orbit Map ---
+ - Hash table
+
 * --- Day 8: Space Image Format ---
   - Array manipulation
 
