@@ -26,4 +26,7 @@ https://adventofcode.com/2019
 * --- Day 8: Space Image Format ---
   - Array manipulation
 
+* --- Day 9: Sensor Boost ---
+ - Array manipulation
+
 
