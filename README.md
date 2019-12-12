@@ -29,4 +29,8 @@ https://adventofcode.com/2019
 * --- Day 9: Sensor Boost ---
  - Array manipulation
 
+* --- Day 10: Monitoring Station ---
+  - Math calculation, Heap
 
+* --- Day 11: Space Police ---
+  - Array manipulation
