@@ -34,3 +34,6 @@ https://adventofcode.com/2019
 
 * --- Day 11: Space Police ---
   - Array manipulation
+
+* --- Day 12: The N-Body Problem ---
+  - Regular expression, LCM (Least Common Multiple) Calculation
