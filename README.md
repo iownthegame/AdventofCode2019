@@ -37,3 +37,6 @@ https://adventofcode.com/2019
 
 * --- Day 12: The N-Body Problem ---
   - Regular expression, LCM (Least Common Multiple) Calculation
+
+* --- Day 13: Care Package ---
+  - Array manipulation
