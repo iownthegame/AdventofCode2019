@@ -18,7 +18,7 @@ https://adventofcode.com/2019
   - Array manipulation
 
 * --- Day 6: Universal Orbit Map ---
- - Hash table
+  - Hash table
 
 * --- Day 7: Amplification Circuit ---
   - Array manipulation, data memorization
@@ -40,3 +40,6 @@ https://adventofcode.com/2019
 
 * --- Day 13: Care Package ---
   - Array manipulation
+
+* --- Day 14: Space Stoichiometry ---
+  - Math calculation and optimization, Binary Search
