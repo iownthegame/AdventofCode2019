@@ -43,3 +43,6 @@ https://adventofcode.com/2019
 
 * --- Day 14: Space Stoichiometry ---
   - Math calculation and optimization, Binary Search
+
+* --- Day 15: Oxygen System ---
+  - Floodfill, BFS, DFS
