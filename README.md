@@ -47,5 +47,5 @@ https://adventofcode.com/2019
 * --- Day 15: Oxygen System ---
   - Floodfill, BFS, DFS
 
---- Day 16: Flawed Frequency Transmission ---
+* --- Day 16: Flawed Frequency Transmission ---
   - Array manipulation, Pattern observation
