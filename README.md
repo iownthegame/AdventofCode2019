@@ -1,6 +1,6 @@
-## Advent of Code 2019
+## [Advent of Code 2019](https://adventofcode.com/2019)
 
-https://adventofcode.com/2019
+### [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-cod)
 
 * --- Day 1: The Tyranny of the Rocket Equation ---
   - Math calculation
@@ -27,7 +27,7 @@ https://adventofcode.com/2019
   - Array manipulation
 
 * --- Day 9: Sensor Boost ---
- - Array manipulation
+  - Array manipulation
 
 * --- Day 10: Monitoring Station ---
   - Math calculation, Heap
